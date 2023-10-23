@@ -1,0 +1,17 @@
+{
+  "name": "tourist-web-2023",
+  "version": "1.0.0",
+  "description": "Deploy tourist-web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}
