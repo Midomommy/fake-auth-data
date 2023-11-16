@@ -1,5 +1,5 @@
-https://my-view-collect.vercel.app/
-https://fake-auth-data.vercel.app/
+- https://my-view-collect.vercel.app/
+- https://fake-auth-data.vercel.app/
 
 ## Deploy JSON Server to Vercel
 
